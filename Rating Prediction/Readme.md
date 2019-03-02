@@ -1,7 +1,7 @@
 # Rating prediction procedure:-
 
 ##NOTE-  
-Each step performed in the prediction is mentioned in the code (i.e .ipynb file) for proper understanding and for view .ipynb file, please install [jupyter notebook] (https://jupyter.org/).
+Each step performed in the prediction is mentioned in the code (i.e .ipynb file) for proper understanding and for view .ipynb file, please install [jupyter notebook](https://jupyter.org/).
 
 **Step-1:**
 importing essential libraries like pandas, numpy, matplotlib e.t.c
