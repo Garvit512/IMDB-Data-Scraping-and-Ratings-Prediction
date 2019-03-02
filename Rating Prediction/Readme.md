@@ -23,6 +23,7 @@ We can’t apply prediction or any algorithm on text (categorical) data because 
 >Feature Scaling:-
 
 It is a good practice to scale the values into one standard so that the algorithm will give more accurate results and there should be no biasing.
+
 **Step-5:** 
 >Model Building (Prediction):-
 
