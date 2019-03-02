@@ -6,7 +6,8 @@ Each step performed in the prediction is mentioned in the code (i.e .ipynb file)
 **Step-1:**
 importing essential libraries like pandas, numpy, matplotlib e.t.c
 
-**Step-2:** >Feature Selection & data preprocessing:-
+**Step-2:** >Feature Selection & data preprocessing
+
  Visualize independent variables like Budget, Revieweres, Genre for finding the impact of each independent variable on the ratings (dependent variable).
 Then selecting the features which have higher impact on ratings comparatively to others.
 Some fields have null values because those data are not available on website so for Budget, null values are replaced with 0 (zero) because replacing null values with mean of Budget or something else would not work because there are many movies which are too high in budget and also some are too low.
