@@ -1,6 +1,6 @@
 # Rating prediction procedure:-
 
-##NOTE-  
+## NOTE-  
 Each step performed in the prediction is mentioned in the code (i.e .ipynb file) for proper understanding and to run .ipynb file, please install [jupyter notebook](https://jupyter.org/).
 
 **Step-1:**
