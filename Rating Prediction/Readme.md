@@ -6,7 +6,8 @@ Each step performed in the prediction is mentioned in the code (i.e .ipynb file)
 **Step-1:**
 importing essential libraries like pandas, numpy, matplotlib e.t.c
 
-**Step-2:** >Feature Selection & data preprocessing
+**Step-2:** 
+>Feature Selection & data preprocessing
 
  Visualize independent variables like Budget, Revieweres, Genre for finding the impact of each independent variable on the ratings (dependent variable).
 Then selecting the features which have higher impact on ratings comparatively to others.
