@@ -2,7 +2,7 @@
 
 **step-1:**
 
-fetch all 250 movies url from website through  _ _movies_url_fetcher.py_ _ and save in * *movies_url.csv* * file
+fetch all 250 movies url from website through   _ _movies_url_fetcher.py_ _  and save in * *movies_url.csv* * file
 
 **step-2:**
 
